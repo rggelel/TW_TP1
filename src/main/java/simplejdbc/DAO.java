@@ -28,7 +28,7 @@ public class DAO {
 	 *
 	 * @return le nombre d'enregistrements dans la table CUSTOMER
 	 * @throws DAOException
-	 */
+	 *///
 	public int numberOfCustomers() throws DAOException {
 		int result = 0;
 
